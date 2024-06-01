@@ -47,7 +47,7 @@
 	}
 
 	p > span:first-of-type::after {
-		content: '🤙';
+		content: 'ꨄ';
 		position: absolute;
 		left: 0;
 		top: 0;
